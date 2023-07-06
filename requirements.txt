@@ -1,0 +1,7 @@
+PyAutoGUI
+pandas
+openpyxl
+numpy
+time
+pyperclip
+keyboard
